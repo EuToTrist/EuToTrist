@@ -1,4 +1,4 @@
-## Bem Vindo ao meu GitGub
+### Bem Vindo ao meu GitGub!👨‍💻
 
 <div style="display: inline_block"><br>
 
@@ -8,7 +8,7 @@
 
 </div>
 
- ## Contato👨‍💻
+ ## Contato
 
 <div>
 <br>
