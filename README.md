@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
 
-![EuToTrist GitHub stats](https://github-readme-stats.vercel.app/api?username=EuToTrist&show_icons=true&theme=dracula)
+<!-- ![EuToTrist GitHub stats](https://github-readme-stats.vercel.app/api?username=EuToTrist&show_icons=true&theme=dracula)-->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuToTrist&layout=compact) -->
 
